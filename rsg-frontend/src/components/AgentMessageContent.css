@@ -1,0 +1,25 @@
+.agent-markdown{min-width:0;line-height:1.8;overflow-wrap:anywhere}
+.agent-markdown>:first-child{margin-top:0}
+.agent-markdown>:last-child{margin-bottom:0}
+.agent-markdown p{margin:0 0 12px;white-space:normal}
+.agent-markdown h1,.agent-markdown h2,.agent-markdown h3,.agent-markdown h4,.agent-markdown h5,.agent-markdown h6{font-size:16px;line-height:1.5;margin:22px 0 10px;font-weight:600}
+.agent-markdown h1{font-size:20px}.agent-markdown h2{font-size:18px}
+.agent-markdown strong{font-weight:700}
+.agent-markdown ul,.agent-markdown ol{padding-left:24px;margin:10px 0 14px}
+.agent-markdown li{margin:4px 0}.agent-markdown li>p{margin:0}
+.agent-markdown li>ul,.agent-markdown li>ol{margin:4px 0}
+.agent-markdown blockquote{margin:14px 0;padding:0 14px;border-left:2px solid #b7c6bb;color:#526357}
+.agent-markdown a{color:#285b36;text-decoration:underline;text-underline-offset:3px}
+.agent-markdown a:hover{color:#193f24}
+.agent-markdown code{font-family:Consolas,monospace;font-size:.88em;background:#f0f3ef;padding:2px 5px;border-radius:4px;white-space:break-spaces}
+.agent-markdown pre{max-width:100%;margin:14px 0;padding:14px;white-space:pre;overflow-x:auto;line-height:1.65;font-size:12px}
+.agent-markdown pre code{padding:0;background:none;white-space:pre;border-radius:0;font-size:inherit}
+.markdown-table-scroll{max-width:100%;overflow-x:auto;margin:14px 0;border:1px solid #dce3dc;border-radius:6px}
+.markdown-table-scroll:focus-visible{outline:2px solid #42794f;outline-offset:3px}
+.agent-markdown table{width:100%;border-collapse:collapse;font-size:13px;line-height:1.6}
+.agent-markdown th,.agent-markdown td{padding:10px 12px;vertical-align:top;white-space:normal;min-width:100px;border-bottom:1px solid #e5eae5}
+.agent-markdown th{background:#f4f6f3;font-weight:600}
+.agent-markdown tr:last-child td{border-bottom:0}
+.agent-markdown hr{border:0;border-top:1px solid #dce3dc;margin:18px 0}
+.agent-markdown input[type=checkbox]{accent-color:#2b6039;margin-right:7px}
+@media(max-width:600px){.agent-markdown{font-size:14px}.agent-markdown th,.agent-markdown td{padding:8px 10px;font-size:12px}}
